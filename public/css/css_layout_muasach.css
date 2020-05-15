@@ -1,0 +1,18 @@
+#mua_sach table {
+font-family: arial, sans-serif;
+border: 2px solid black;
+width: 100%;margin: auto;
+text-align: center;
+}
+
+#mua_sach th {
+border: 1px solid #dddddd;
+padding: 5px;
+background-color: #dddddd;
+}
+#mua_sach td {
+border:1px solid black;
+}
+#mua_sach {
+    text-align: center;
+}
